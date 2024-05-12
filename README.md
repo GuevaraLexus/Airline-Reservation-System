@@ -2,7 +2,10 @@
 Programming Language : C#\
 Database Management : mySQL\
 Generating PDF : fpdf\
+
 Project Description: *The Airline Management System (AMS) is a comprehensive software solution designed to streamline and automate various aspects of airline operations. It encompasses functionalities tailored to meet the needs of airlines, ranging from passenger booking and ticketing to flight scheduling and fleet management. AMS aims to enhance efficiency, improve customer satisfaction, and optimize resource utilization within the airline industry.*
+
+
 
 **Key Features:**
 
